@@ -11,6 +11,12 @@
 == LICENSE: CC BY-NC 4.0											 ==
 == https://creativecommons.org/licenses/by-nc/4.0/ 					 ==
 =======================================================================*/
+local Player = FindMetaTable('Player')
+function Player:IsDev()
+	
+  return self:IsAdmin()
+	
+end
 
 if ObjectTags.ShowDebugPrints then
 
