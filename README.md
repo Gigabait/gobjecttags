@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/TibbaRrule/gobjecttags/master/gobjecttagslogo.png)
+
 # gobjecttags
 A user-driven solution for tagging players with data. Feel free to use under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) [Full Code](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
